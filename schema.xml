@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <record>
+      <Name>Кириллов Сергей Александрович</Name>
+      <Phone>моб.+7(903)602-32-46</Phone>
+      <Age>52</Age>
+      <Sex>муж</Sex>
+      <Work></Work>
+      <Address>603109, Нижегородская обл., Нижний Новгород, ул. Ильинская, д. 32, кв. 48</Address>
+      <Cat>Наличный расчет</Cat>
+      <List></List>
+      <Email>marina.abzeeva@yandex.ru</Email>
+   </record>
+   <record>
+      <Name>Кириллов Сергей Викторович</Name>
+      <Phone></Phone>
+      <Age>48</Age>
+      <Sex>жен</Sex>
+      <Work></Work>
+      <Address>603158, Нижегородская обл., Нижний Новгород, ул. Победная, д. 18, кв. 113</Address>
+      <Cat>Кровь Дог. б/н </Cat>
+      <List></List>
+      <Email>marina.r52@rambler.ru</Email>
+   </record>
+</data-set>
